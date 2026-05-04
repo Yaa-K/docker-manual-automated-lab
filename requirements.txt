@@ -1,7 +1,5 @@
 # Pin Flask version 3.0.0 for reproducible builds.
 flask==3.0.0
 
-# Security Patches for Transitive Dependencies
-jaraco.context>=6.1.0
-wheel>=0.46.2
+
 
