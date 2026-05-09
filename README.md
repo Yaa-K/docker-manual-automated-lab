@@ -311,7 +311,6 @@ Phase 2 — GitHub Actions CI/CD
 ![Successful workflow](screenshots/Phase%202-%20successful%20workflow.png)
 *Figure 19: Successful GitHub Actions workflow after fixes.*
 
-Project Structure
 
 ## Key Concepts Covered
 
