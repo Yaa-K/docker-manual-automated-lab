@@ -162,14 +162,13 @@ docker build -t my-web-app .
 docker run -d -p 5000:5000 --name webapp-test my-web-app
 
 ```
-![Docker image build process](screenshots/Phase%201%20Build%20.png)
-
+<img width="1920" height="1008" alt="Phase 1  Build " src="https://github.com/user-attachments/assets/68dfd278-0049-41b4-a414-eb0dcd0a7e10" />
 *Figure 5: Building the Docker image locally.*
 
 
 ![Docker build output](screenshots/Phase%201-%20build.png)
 
-*Figure 6: Successful Docker image build output.*
+*Figure 6:Docker container created.*
 
 ![Container test](screenshots/Phase%201-%20Test.png)
 
@@ -326,7 +325,7 @@ Project Structure
 
 ## Instructor's Original Lab
 
-This lab is a replication of the original assignment created by **samuel-nartey**.
+This lab is a replication of the original assignment created by [Samuel Nartey](https://github.com/samuel-nartey),an instructor of Parocyber.
 
 ## License
 
